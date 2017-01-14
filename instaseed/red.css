@@ -23,7 +23,7 @@
 .typo-light h4 > a:hover,.typo-light h4 > a:active,.typo-light h4 > a:focus, 
 .typo-light h5 > a:hover,.typo-light h5 > a:active,.typo-light h5 > a:focus, 
 .typo-light h6 > a:hover,.typo-light h6 > a:active,.typo-light h6 > a:focus {
-	color: #f24d95;
+	color: #00a79d;
 }
 /* -------------------------------
 	***** Background Color *****
@@ -77,7 +77,7 @@
 .date-box,
 .line-scale-party > div, .line-scale-pulse-out-rapid > div, .line-scale-pulse-out > div, .line-scale > div, .line-spin-fade-loader > div
 {
-	background-color: #f24d95;
+	background-color: #00a79d;
 }
 
 
@@ -148,7 +148,7 @@ a,
 .icon-border,
 .topbar-section .social-links li a:hover
 {
-	color: #f24d95;
+	color: #00a79d;
 }
 
 
@@ -199,7 +199,7 @@ a,
 .tags.color-tags li a:hover
 
 {
-	border-color: #f24d95;
+	border-color: #00a79d;
 }
 
 
@@ -208,8 +208,8 @@ a,
 
 /* Border Left Right Color */
 .border-style-one:hover{
-	border-left-color: #f24d95;
-	border-right-color: #f24d95;
+	border-left-color: #00a79d;
+	border-right-color: #00a79d;
 }
 
 
@@ -225,17 +225,17 @@ a,
 	***** Tooltip Arrow *****
 --------------------------------*/
 .tooltip-theme-bg .tooltip.top .tooltip-arrow{
-	border-top-color:#f24d95 !important;
+	border-top-color:#00a79d !important;
 }
 
 .tooltip-theme-bg .tooltip.bottom .tooltip-arrow{
-	border-bottom-color:#f24d95 !important;
+	border-bottom-color:#00a79d !important;
 }
 
 .tooltip-theme-bg .tooltip.left .tooltip-arrow{
-	border-left-color:#f24d95 !important;
+	border-left-color:#00a79d !important;
 }
 
 .tooltip-theme-bg .tooltip.right .tooltip-arrow{
-	border-right-color:#f24d95 !important;
+	border-right-color:#00a79d !important;
 }

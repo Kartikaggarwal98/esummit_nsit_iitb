@@ -1256,7 +1256,7 @@ h3.text-just-hand{
 .btn.btn-theme-color-inverse:focus
 {
     background: #fff;
-	border-color:#f24d95;
+	border-color:#00a79d;
 }
 .btn.rounded{
 	border-radius:10em !important;
@@ -2217,7 +2217,7 @@ hr{
 }
 /* White Title */
 .title-description.white-title, .title-description.white-title h5, .title-description.white-title h2{
-	color: #f24d95;
+	color: #00a79d;
 }
 .title-description.white-title h2:after, .title-description.white-title h2:before{
 	background-color: #fff;
